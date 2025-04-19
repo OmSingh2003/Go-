@@ -59,9 +59,7 @@ Here are some of the resources I am using or plan to use:
 * **Effective Go:** [https://go.dev/doc/effective_go](https://go.dev/doc/effective_go)
 * **Go by Example:** [https://gobyexample.com/](https://gobyexample.com/)
 * **[Book Name, e.g., The Go Programming Language by Donovan & Kernighan]**
-* **[Online Course Platform, e.g., Udemy Course Title]**
-* **[Other useful websites or blogs]**
-
+  
 ## Contributing
 
 While this is primarily a personal learning repository, feel free to open an issue if you spot a mistake or have a suggestion!
