@@ -16,4 +16,9 @@ func main() {
 	for i := range 3 {
 		fmt.Println(i)
 	}
+	for i := range 100 {
+		if i%2 == 0 {
+			fmt.Println(i, "is even")
+		}
+	}
 }
