@@ -1,4 +1,5 @@
 // Command Line Arguments
+// echo program
 // Print command Line arguments
 package main
 
@@ -13,5 +14,11 @@ func main() {
 		s += space + os.Args[i]
 		space = " "
 	}
+	var st, sp string
+	for _, str := range os.Args[1:] {
+		st += sp + str
+		sp = " "
+	}
 	fmt.Println(s)
+	fmt.Println(st)
 }
